@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(179, 212, 192);
+  text-align: center;
+  margin: 20px;
+}
+.Home {
+  filter: blur(3px);
+}
+.Home:hover {
+  filter: none;
+  transition: 1s ease;
+}
+a {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  padding: 10px;
+  margin: 0px;
+  border: 1px solid black;
+  text-decoration: none;
+}
+a:hover {
+  background-color: black;
+  color: white;
+
+  cursor: pointer;
+}
+input {
+  caret-color: red;
+}

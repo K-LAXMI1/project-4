@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 30px;
+}
+a {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  text-decoration: none;
+}
+a:hover {
+  background-color: white;
+  color: black;
+
+  cursor: pointer;
+}
+
+.can {
+  text-align: center;
+}
+.can h1,
+h2 {
+  padding: 10px, 30px;
+  font-size: 40px;
+  margin: 20px;
+  margin-bottom: 90px;
+  margin-top: 90px;
+}
+.button {
+  border: 3px solid black;
+  padding: 70px;
+  margin: 10px;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+#grey {
+  background-color: grey;
+}
+#blue {
+  background-color: blue;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
+#navy {
+  background-color: navy;
+}
+#purple {
+  background-color: purple;
+}
+#aqua {
+  background-color: aqua;
+}
